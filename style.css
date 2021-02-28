@@ -81,6 +81,10 @@ top: 40px;
   width: 30%;
   margin:auto;
 }
+.contact-discription{
+  width:60%;
+  margin: auto;
+}
 .contact-message{
   width:40%;
   margin: 40px auto 60px auto;
