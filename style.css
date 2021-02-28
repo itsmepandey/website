@@ -24,6 +24,10 @@ h2 {
   font-family: 'Montserrat', sans-serif;
   padding-bottom: 10px;
 }
+
+span{
+  color: #11999E;
+}
 h3 {
   color: #11999E;
   font-size:1.5rem;
